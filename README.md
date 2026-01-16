@@ -1,6 +1,6 @@
 <h1>Hey! I'm Miles. <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Social Engineering Toolkit</b>
 - <b>Exploiting Open Ports using Metasploit</b>
